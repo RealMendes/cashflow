@@ -1,4 +1,4 @@
-# Título do projeto
+# CashFlow - Controle seu dinheiro 
 
 Este projeto tem como finalidade para atividade prática para máteria Atividade Extensionista II - Tecnologia aplicada à Inclusão Digital - Projeto  do curso de Analise e Desenvolvimento de Sistemas da Uninter. Trata-se de uma API Financeira, para registro de entradas e saidas e o controle de gastos do mês. No momento está em desenvolvimento o BackEnd, utilizando o Nodejs com Express e a ferramenta functions firebase para hospedagem da API.
 
