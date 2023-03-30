@@ -20,7 +20,6 @@ npm install firebase-admin
 
 ## 🛠️ Construído com
 
-Mencione as ferramentas que você usou para criar seu projeto
 
 * [NodeJs](https://nodejs.org/en) - O framework web usado
 * [Firebase](https://firebase.google.com/) - Functions e Firestore Database
